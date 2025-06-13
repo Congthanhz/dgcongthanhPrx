@@ -94,7 +94,8 @@ print('\033[1;37m╒════════════╤═══════
       '│ 7          │ ᴛᴏᴏʟ ᴛᴛᴄ ɪɴꜱᴛᴀɢʀᴀᴍ           │\n'
       '│ 8          │ ᴛᴏᴏʟ ʀᴇɢ ᴀᴄᴄ ꜰᴀᴄᴇʙᴏᴏᴋ        │\n'
       '│ 9          │ ᴛᴏᴏʟ ɴᴜᴏ̂ɪ ꜰʙ                 │\n'
-      '│ 0          │ ᴛʜᴏᴀ́ᴛ                        │\n'
+      '│ 10         │ ᴛᴏᴏʟ ꜱᴘᴀᴍ ʟᴏᴄᴋᴇᴛ ᴍᴀx ꜱᴘᴇᴇᴅ   │\n'
+      '│ 0          │ ᴛʜᴏᴀ́ᴛ                        │\n'      
       '╘════════════╧══════════════════════════════╛\033[0m\n')
 
 
@@ -113,6 +114,7 @@ links = {
     "7": "https://raw.githubusercontent.com/Congthanhz/dgcongthanhPrx/main/10.py",
     "8": "https://raw.githubusercontent.com/Congthanhz/dgcongthanhPrx/main/11.py",
     "9": "https://raw.githubusercontent.com/Congthanhz/dgcongthanhPrx/main/12.py"
+    "10": "https://raw.githubusercontent.com/Congthanhz/dgcongthanhPrx/refs/heads/main/loc.py"    
 }
 
 while True:
